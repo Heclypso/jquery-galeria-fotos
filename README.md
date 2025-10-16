@@ -18,7 +18,7 @@ O projeto foi desenvolvido com intuito de criar uma biblioteca de fotos interati
 
 1 - Instalar o plugin no Visual Studio Code chamado Live Server
 
-2 - Abrir o projeto com o Live Sever clicando com o botão direito dentro do arquivo HTML e escolhendo a opção Open With Live Server"
+2 - Abrir o projeto com o Live Sever clicando com o botão direito dentro do arquivo HTML e escolhendo a opção Open with Live Server"
 
 ## Contribuições
 
